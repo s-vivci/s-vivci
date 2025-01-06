@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @s-vivci
-- 👀 I’m interested in data science and automation
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me  - 
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me  -
 
 <!---
 s-vivci/s-vivci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
